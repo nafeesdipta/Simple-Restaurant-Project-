@@ -14,6 +14,12 @@ body {
     background-repeat: no-repeat;
 }
 
+.form {
+    margin: 20px;
+    padding: 5px;
+    float: right;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -75,6 +81,15 @@ li.dropdown {
 
 h3 {
     color: #eee7e7
+}
+
+h1 {
+    padding: 20px;
+    text-align: center;
+}
+
+p1 {
+    padding: 20px;
 }
 
 
